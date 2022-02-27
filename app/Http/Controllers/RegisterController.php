@@ -10,9 +10,9 @@ class RegisterController extends Controller {
     public function register(Request $request) {
       $prevRegistered = Registrations::where('user_id', auth()->id())
         ->where('event_id', $request->input('event_id'))
-        ->exists();
+        ->first();
 
-      if ($prevRegistered) {
+      if ($prevRegistered != null) {
         $prevRegistered->restore();
         return back()->with(['success' => 'Succesfully Registered!']);
       }
