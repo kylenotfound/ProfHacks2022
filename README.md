@@ -89,3 +89,7 @@ All the migrations should have run now succesfully.
 >php artisan serve
 
 In your web browser of choice, go to: http://localhost:8000 and you should see the main landing page.
+
+# Youtube Video
+
+https://youtu.be/XghXMuyDIGE
