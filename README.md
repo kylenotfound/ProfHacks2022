@@ -1,4 +1,4 @@
-Volunteering! Fundraising! Support what you believe!
+# Volunteering! Fundraising! Support what you believe!
 ProfsForChange is a platform for Rowan University Students, Staff and more to find different volunteering activities, fundrasing events and protests to contribute to or attend. Connect with others who and support what you believe, together!
 
 New events are posted all the time! Register and sign up for different events or create your own! #RowanProud.
